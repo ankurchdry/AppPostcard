@@ -13,6 +13,9 @@
 		5DB0B12F19C553F300322D7D /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5DB0B12E19C553F300322D7D /* Images.xcassets */; };
 		5DB0B13219C553F300322D7D /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 5DB0B13019C553F300322D7D /* LaunchScreen.xib */; };
 		5DB0B13E19C553F400322D7D /* PostcardTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DB0B13D19C553F400322D7D /* PostcardTests.swift */; };
+		5DB0B14819C5653D00322D7D /* Game-Of-Thrones-music1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5DB0B14719C5653D00322D7D /* Game-Of-Thrones-music1.jpg */; };
+		5DB0B14A19C5831200322D7D /* Swati-Ankur.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 5DB0B14919C5831200322D7D /* Swati-Ankur.JPG */; };
+		5DB0B14C19C5841900322D7D /* AlbertEinsteinStamp.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5DB0B14B19C5841900322D7D /* AlbertEinsteinStamp.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +39,9 @@
 		5DB0B13719C553F400322D7D /* PostcardTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PostcardTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5DB0B13C19C553F400322D7D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5DB0B13D19C553F400322D7D /* PostcardTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostcardTests.swift; sourceTree = "<group>"; };
+		5DB0B14719C5653D00322D7D /* Game-Of-Thrones-music1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Game-Of-Thrones-music1.jpg"; sourceTree = "<group>"; };
+		5DB0B14919C5831200322D7D /* Swati-Ankur.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Swati-Ankur.JPG"; sourceTree = "<group>"; };
+		5DB0B14B19C5841900322D7D /* AlbertEinsteinStamp.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = AlbertEinsteinStamp.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +96,9 @@
 		5DB0B12519C553F300322D7D /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				5DB0B14B19C5841900322D7D /* AlbertEinsteinStamp.jpg */,
+				5DB0B14919C5831200322D7D /* Swati-Ankur.JPG */,
+				5DB0B14719C5653D00322D7D /* Game-Of-Thrones-music1.jpg */,
 				5DB0B12619C553F300322D7D /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -192,8 +201,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5DB0B14819C5653D00322D7D /* Game-Of-Thrones-music1.jpg in Resources */,
+				5DB0B14A19C5831200322D7D /* Swati-Ankur.JPG in Resources */,
 				5DB0B12D19C553F300322D7D /* Main.storyboard in Resources */,
 				5DB0B13219C553F300322D7D /* LaunchScreen.xib in Resources */,
+				5DB0B14C19C5841900322D7D /* AlbertEinsteinStamp.jpg in Resources */,
 				5DB0B12F19C553F300322D7D /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
